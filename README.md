@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ALLSEEPANDA
-- 👀 I’m interested in ...computers applications
+- 👀 I’m interested in ...computer applications
 - 🌱 I’m currently learning ...nothing
 - 💞️ I’m looking to collaborate on ...cyber security
 - 📫 How to reach me ...don't
