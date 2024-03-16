@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ALLSEEPANDA
 - 👀 I’m interested in ...computer applications
-- 🌱 I’m currently learning ...nothing
-- 💞️ I’m looking to collaborate on ...cyber security
+- 🌱 I’m currently learning ...C,WEB DEV AND DBMS
 - 📫 How to reach me ...don't
 
 <!---
